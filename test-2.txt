@@ -1,1 +1,2 @@
-Testing the 2nd file
+Testing the 2nd file.
+Added new line.

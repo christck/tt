@@ -1,1 +1,2 @@
-Testing the random file
+Testing the random file.
+Added another new line.
